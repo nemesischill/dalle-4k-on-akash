@@ -6,7 +6,7 @@ This is copy from [Hugging Face Space (mukaist/DALLE-4K)](https://huggingface.co
 ## Deploy on Akash
 1. Create and fund with AKT your [Keplr wallet](https://www.keplr.app/get)
 2. Go to [Akash Console](https://console.akash.network/)
-3. Create deployment with text from [deploy.yaml file](https://raw.githubusercontent.com/nemesischill/flux-schnell-on-akash/main/deploy.yaml)
+3. Create deployment with text from [deploy.yaml file](https://raw.githubusercontent.com/nemesischill/dalle-4k-on-akash/main/deploy.yaml)
 4. Go to the logs tab and wait for the model to load
 5. After loading the model, go to the leases tab and open the URI to start generating images
 
